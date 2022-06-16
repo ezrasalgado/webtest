@@ -1,0 +1,33 @@
+
+.index_title {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    
+}
+
+.picture {
+    width: 33vw;
+    float: left;
+}
+
+.pics {
+    padding: 15px;
+}
+.sano {
+    padding-bottom: 15px;
+}
+.fin {
+    padding-bottom: 15px;
+}
+
+.container {
+    margin: auto;
+    justify-content: center !important;
+    align-items: center !important;
+}
+
+main {
+    padding-left: 11vw;
+  
+}
